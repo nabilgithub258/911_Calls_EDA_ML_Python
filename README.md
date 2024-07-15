@@ -63,7 +63,7 @@ The models used include:
 
 ## Results
 
-Our analysis and models provided valuable insights into the 911 calls dataset. We were able to predict reasons for the calls before it even happened, although our model wasn't perfect by any means but it gave us an idea what the reasons might be for the calls
+Our analysis and models provided valuable insights into the 911 calls dataset. We were able to predict reasons for the calls before it even happened, although our model wasn't perfect by any means but it gave us an idea what the reasons might be for the calls.
 We were limited by our computing power and as the dataset was massive we couldn't do more advanced methods to make the model to our desired satisfaction.
 
 ## Contributing
